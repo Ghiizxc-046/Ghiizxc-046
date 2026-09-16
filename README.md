@@ -2,6 +2,12 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=200&section=header&text=Ghiizxc-046&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+</div>
+
+<div align="center">
+
 # 👋 Hello, I'm Ghiizxc-046
 
 ### Junior Programmer | Web Development Student
