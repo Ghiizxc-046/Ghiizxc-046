@@ -50,6 +50,14 @@ I started learning IT in 2025 and I'm currently improving my programming skills 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 
+<a href="https://instagram.com/USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://discord.com/users/DISCORD_ID">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
+</a>
+
 </div>
 
 ---
