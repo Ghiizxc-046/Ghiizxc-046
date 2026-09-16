@@ -1,20 +1,18 @@
 <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=140&section=header">
-
-# 👋 Hi, I'm Ghiizxc-046
-
-### Junior Programmer | Web Development Student
+![Profile Views](https://komarev.com/ghpvc/?username=Ghiizxc-046&color=blue&style=flat-square)
 
 </div>
 
-# 👋 Hi, I'm Ghiizxc-046
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Ghiizxc-046&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### Junior Programmer | Web Development Student
+</div>
 
-I'm a student interested in Web Development and Software Engineering.
+<div align="center">
+
+### 👋 Hi, I'm Ghiizxc
+
+**Junior Programmer | Web Development Student**
 
 </div>
 
@@ -22,14 +20,15 @@ I'm a student interested in Web Development and Software Engineering.
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering (RPL) Student
-- 💻 Interested in Web Development
-- 🌱 Currently learning Laravel and JavaScript
-- 🚀 Goal: Become a Software Engineer
+Hi there 👋
+
+I'm a Software Engineering (RPL) student who is interested in **Web Development** and **Software Engineering**.
+
+I started learning IT in 2025 and I'm currently improving my programming skills by learning and building web projects.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ My Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git" />
@@ -37,34 +36,34 @@ I'm a student interested in Web Development and Software Engineering.
 
 ---
 
-## 📂 Projects
+## 📂 Some of My Projects
 
-**E-Library**  
-A digital library management system built with Laravel, PHP, and MySQL.
-
-**DigiShop**  
-An e-commerce website built with PHP and MySQL.
-
-**GoalZone Booking**  
-A futsal field booking system built with Laravel.
+- 📚 **E-Library** — Digital library management system
+- 🛒 **DigiShop** — Simple e-commerce website
+- ⚽ **GoalZone Booking** — Futsal field booking system
+- 🎮 **Top-Up Game** — Game top-up website
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Currently
 
-<div align="center">
+🌱 Learning more about **Laravel & JavaScript**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ghiizxc-046&show_icons=true&theme=github_dark&hide_border=true" width="400">
+💻 Building web projects
 
-</div>
+📚 Improving my programming skills
+
+🚀 Working towards becoming a **Software Engineer**
 
 ---
 
-<div align="center">
+## 📫 Connect With Me
 
-### 🚀 Keep Learning, Keep Building.
+<p align="left">
 
-</div>
+<a href="https://github.com/Ghiizxc-046">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</a>
 
 </p>
 
@@ -72,6 +71,6 @@ A futsal field booking system built with Laravel.
 
 <div align="center">
 
-### 🚀 Keep Learning. Keep Building.
+### Thanks for visiting my profile! 👋
 
 </div>
