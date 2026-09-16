@@ -1,83 +1,52 @@
-<!-- BANNER -->
+<div align="center">
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=200&section=header&text=Ghiizxc-046&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=140&section=header">
 
-</div>
-
-<div align="center">
-
-# 👋 Hello, I'm Ghiizxc-046
+# 👋 Hi, I'm Ghiizxc-046
 
 ### Junior Programmer | Web Development Student
 
-I'm a student who is interested in **Web Development** and **Software Engineering**.
+</div>
 
-I started learning IT in 2025 and I'm currently improving my skills by building projects and learning new technologies.
+# 👋 Hi, I'm Ghiizxc-046
+
+### Junior Programmer | Web Development Student
+
+I'm a student interested in Web Development and Software Engineering.
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Software Engineering / RPL Student
+- 🎓 Software Engineering (RPL) Student
 - 💻 Interested in Web Development
-- 🌱 Currently learning Laravel & JavaScript
-- 🔧 Love building websites and web applications
-- 🎯 My goal is to become a Software Engineer
-- 📚 Always learning something new
+- 🌱 Currently learning Laravel and JavaScript
+- 🚀 Goal: Become a Software Engineer
 
 ---
 
-## 💻 My Skills
-
-### Languages
+## 🛠️ Skills
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php" />
-
-</p>
-
-### Framework & Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=laravel,mysql,git,github,tailwind,vite" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 📂 Projects
 
-| Technology | Level |
-|---|---|
-| HTML | 🌱 Learning |
-| CSS | 🌱 Learning |
-| JavaScript | 🌱 Learning |
-| PHP | 🌱 Learning |
-| Laravel | 🌱 Learning |
-| MySQL | 🌱 Learning |
-| Git & GitHub | 🌱 Learning |
+**E-Library**  
+A digital library management system built with Laravel, PHP, and MySQL.
 
----
+**DigiShop**  
+An e-commerce website built with PHP and MySQL.
 
-## 📂 Featured Projects
-
-### 📚 E-Library
-Digital library management system built with Laravel, PHP, and MySQL.
-
-### 🛒 DigiShop
-E-commerce website built using PHP and MySQL.
-
-### ⚽ GoalZone Booking
-Futsal field booking system built with Laravel, Filament, and Tailwind CSS.
-
-### 🎮 Top-Up Game
-Game top-up website with product listings and order processing.
+**GoalZone Booking**  
+A futsal field booking system built with Laravel.
 
 ---
 
@@ -85,31 +54,17 @@ Game top-up website with product listings and order processing.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ghiizxc-046&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghiizxc-046&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ghiizxc-046&show_icons=true&theme=github_dark&hide_border=true" width="400">
 
 </div>
 
 ---
-
-## 🔥 Contribution
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ghiizxc-046&theme=tokyonight&hide_border=true" />
+### 🚀 Keep Learning, Keep Building.
 
 </div>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Ghiizxc-046">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
 </p>
 
