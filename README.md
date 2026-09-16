@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Ghiizxc-046&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### 👋 Hi, I'm Ghiizxc
+###  Hi, I'm Ghiizxc
 
 **Junior Programmer | Web Development Student**
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Hi there 👋
 
@@ -20,7 +20,7 @@ I started learning IT in 2025 and I'm currently improving my programming skills 
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 <div align="center">
 
@@ -30,19 +30,19 @@ I started learning IT in 2025 and I'm currently improving my programming skills 
 
 ---
 
-## 🎯 Currently
+##  Currently
 
-🌱 Learning more about Web Development
+ Learning more about Web Development
 
-💻 Improving my programming skills
+ Improving my programming skills
 
-📚 Learning new technologies
+ Learning new technologies
 
-🚀 Working towards becoming a Software Engineer
+ Working towards becoming a Software Engineer
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
