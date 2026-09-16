@@ -12,7 +12,7 @@
 
 ##  About Me
 
-Hi there 👋
+Hi there 
 
 I'm a Software Engineering (RPL) student who is interested in **Web Development** and **Software Engineering**.
 
@@ -56,15 +56,10 @@ I started learning IT in 2025 and I'm currently improving my programming skills 
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
+### Thanks for visiting my profile! 
 
 </div>
 </p>
 
 ---
 
-<div align="center">
-
-### Thanks for visiting my profile! 👋
-
-</div>
