@@ -1,4 +1,4 @@
-## Hi there 👋
+hello guys, this is my github profile 👋
 
 <!--
 **Ghiizxc-046/Ghiizxc-046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
