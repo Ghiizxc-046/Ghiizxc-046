@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Ghiizxc-046&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="./banner.png" width="100%"/>
 
 ###  Hi, I'm Ghiizxc
 
