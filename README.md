@@ -1,74 +1,57 @@
-<div align="center">
+## Hello World, What's up?, I'm Web Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Ghiizxc-046&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+![Ghifary](img/github-header-banner.png)
+
+<!--
+**musaahmad1234567/musaahmad1234567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+##### About me
+
+Hi, I’m Muhammad Bashir Al-Ghifary, a Software Engineering student who is interested in web development. I started learning IT in 2025 and I’m still improving my skills in HTML, CSS, JavaScript, PHP, Laravel, Tailwind CSS, MySQL, and Git.
+
+I enjoy building websites, learning new technologies, and working on projects to improve my programming skills. My goal is to become a professional Software Engineer and create useful digital products.
 
 
-###  Hi, I'm Ghiizxc
+##### Skills
 
-**Junior Programmer | Web Development Student**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,laravel,php,dart&theme=light)](https://skillicons.dev)
 
-</div>
 
----
 
-##  About Me
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/notebooklm-000000?style=for-the-badge&logo=notebooklm&logoColor=white" />
 
-Hi there 
+###
 
-I'm a Software Engineering (RPL) student who is interested in **Web Development** and **Software Engineering**.
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-I started learning IT in 2025 and I'm currently improving my programming skills by learning and building web projects.
+###
 
----
+##### Contact With Me
+![https://instagram.com/msahmdshdq_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://linktr.ee/musa04](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
 
-##  Skills
+###
 
-<div align="center">
+<br clear="both">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,git,mysql" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/Ghiizxc-046/Ghiizxc-046/snake-output/snake.svg" alt="Snake animation" />
 
-</div>
-
----
-
-##  Currently
-
- Learning more about Web Development
-
- Improving my programming skills
-
- Learning new technologies
-
- Working towards becoming a Software Engineer
-
----
-
-##  Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Ghiizxc-046">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/_61hif4r/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://discord.com/channels/@me">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile! 
-
-</div>
-</p>
-
----
-
+###
